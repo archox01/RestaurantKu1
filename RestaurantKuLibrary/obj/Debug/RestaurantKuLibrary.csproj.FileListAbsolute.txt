@@ -1,0 +1,7 @@
+c:\users\dell\documents\visual studio 2015\Projects\RestaurantKu\RestaurantKuLibrary\bin\Debug\RestaurantKuLibrary.dll
+c:\users\dell\documents\visual studio 2015\Projects\RestaurantKu\RestaurantKuLibrary\bin\Debug\RestaurantKuLibrary.pdb
+c:\users\dell\documents\visual studio 2015\Projects\RestaurantKu\RestaurantKuLibrary\obj\Debug\RestaurantKuLibrary.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\RestaurantKu\RestaurantKuLibrary\obj\Debug\RestaurantKuLibrary.dll
+c:\users\dell\documents\visual studio 2015\Projects\RestaurantKu\RestaurantKuLibrary\obj\Debug\RestaurantKuLibrary.pdb
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\RestaurantKu\RestaurantKuLibrary\bin\Debug\Dapper.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\RestaurantKu\RestaurantKuLibrary\bin\Debug\Dapper.xml
